@@ -1,0 +1,12 @@
+.porfolio section{
+    height: 60vh;
+    background-color: grey;
+}
+.porfolio{
+    width: 95%;
+    display: flex;
+    align-content: center;
+    gap: 130px;
+    margin-left: auto;
+    margin-right: auto;
+}
